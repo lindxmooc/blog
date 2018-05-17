@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 
 
 # 开始学习c语言
